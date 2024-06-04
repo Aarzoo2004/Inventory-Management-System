@@ -22,15 +22,7 @@ body {
 
 
 
-.tab {
-  padding: 5px 10px;
-  cursor: pointer;
-}
 
-.tab-content {
-  display: none;
-  padding: 20px;
-}
 
 .tab-content.active {
   display: block;
