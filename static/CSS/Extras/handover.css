@@ -20,12 +20,7 @@ body {
   flex-direction: column;
 }
 
-.tabs {
-  display: flex;
-  justify-content: space-between;
-  padding: 10px;
-  border-bottom: 2px solid #000;
-}
+
 
 .tab {
   padding: 5px 10px;
